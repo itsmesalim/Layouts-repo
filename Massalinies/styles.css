@@ -1,0 +1,21 @@
+body{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 24px;
+}
+
+.box{
+    border: 2px solid #ff0000;
+    margin: 10px;
+    padding: 20px;
+    box-shadow: 1px 1px 3px 2px #cfcaca;
+}
+
+blockquote{
+    border-left: 5px solid #c0bcbc;
+    padding-left: 10px;
+}
+
+kbd{
+    background-color: #000000;
+    color: #ffffff;
+}
